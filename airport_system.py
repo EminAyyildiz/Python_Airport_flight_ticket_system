@@ -1,3 +1,6 @@
+# Written by Emin Ayyıldız
+print("Written by Emin Ayyıldız")
+
 import os
 import time
 from enum import Enum
